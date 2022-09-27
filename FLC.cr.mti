@@ -1,0 +1,11 @@
+D:/FLC/flc/FLC.v {1 {vlog -work flc -stats=none {D:\FLC\flc\FLC.v}
+Model Technology ModelSim PE Student Edition vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FuzzyController
+-- Compiling module Fuzzification
+-- Compiling module RuleBase
+-- Compiling module Defuzzification
+
+Top level modules:
+	FuzzyController
+
+} {} {}}
